@@ -7,3 +7,9 @@ xvfb.log
 bin
 
 trained_models
+
+venv
+
+notebooks/gym-results
+
+notebooks/.ipynb_checkpoints
