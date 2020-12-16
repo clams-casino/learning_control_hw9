@@ -3,7 +3,7 @@
 
 ## Get started
 
-In order to run without any problems the simulator you need to edit the **__init__.py** file in `notebooks/simulator/src/gym_duckietown/envs` as follow:
+In order to run without any problems the simulator you need to edit the `__init__.py` file in `notebooks/simulator/src/gym_duckietown/envs` as follow:
 
 ```Python
 # coding=utf-8
