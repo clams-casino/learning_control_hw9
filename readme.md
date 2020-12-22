@@ -1,5 +1,5 @@
 # Model based exercise for AMoD class 2020
-
+Team members: Charalampos Roulios, Shao (Mike) Zhang
 
 ## Get started
 
